@@ -2,6 +2,6 @@
 
 Download `allsim.ha` file.
 
-[!Dowmload](allsim.ha)
+[Download](allsim.ha)
 
 And import it from **Ha Tunnel**.
