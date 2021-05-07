@@ -67,7 +67,7 @@ Ooredoo - White List နဲ့ပဲကြည့်လို့ရပါတယ�
  ( US,Canada, Singapore, Netherland ချိတ်တယ် )
  
 - Ha Tunnel
- ( Config File List အောက်မှာ)
+ ( Config File List ကို`Config File List` မှာဖော်ပြထားပါတယ်။)
  
 - Potato 
  (UDP,TCP+ ရ)
@@ -97,7 +97,7 @@ DNS ချိန်းပြီးတစ်ခါတည်း သုံးလိ
 
 1.1.1.1 ကိုအရင်ချိတ်ပါ
 
-# List -1 
+# Config File List ပါ။
 
 https://www.mediafire.com/download/7fm6n28hj8fjq9k
 
@@ -109,6 +109,8 @@ pass: 1217
 
 sg
 104.21.88.170
+
+-----
 
 https://www.mediafire.com/folder/chgvs5mix2mc3/%E1%80%99%E1%80%B0%E1%80%9B%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8
 
