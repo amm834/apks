@@ -216,6 +216,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEJNVVpLaG5tQW4@13.76.98.236:58718/?outline
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZeU54SGZQcjV1Ykc@13.76.98.236:58718/?outline=1
 
+# List-6
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUEY1YUpxbEdSWHQ@54.251.216.116:17797/?outline=1
+
 # MPT and Wifi Only
 
 ss://YWVzLTI1Ni1nY206aHZGVVg@13.250.95.194:1443/#A P Shin Thant-Gb Unlimited
