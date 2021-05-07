@@ -59,35 +59,34 @@ Ooredoo - White List နဲ့ပဲကြည့်လို့ရပါတယ�
 
 # VPN for Ooredoo 
 
- 1.1.1.1 - not bad
+- 1.1.1.1 - not bad
  Let's VPN - good
  ( ကျွန်တော်တော့စိတ်မရှည်ပါ)
  
- Quick VPN - not bad 
+- Quick VPN - not bad 
  ( US,Canada, Singapore, Netherland ချိတ်တယ် )
  
- Ha Tunnel
+- Ha Tunnel
  ( Config File List အောက်မှာ)
  
- Potato 
+- Potato 
  (UDP,TCP+ ရ)
  
-Psiphon - United State , Singapore , Japan
+- Psiphon - United State , Singapore , Japan
 
 ( နှေးတယ်)
 
-NapsterV - နှေးတယ်
+- NapsterV - နှေးတယ်
 
 # MPT 
 
 အသုံးပြုရမယ့် VPN များ
 
-Ha Tunnel
-
-1.1.1.1
-Potato ( UDP,TCP)
-Psiphon - Japan
-Outline 
+- Ha Tunnel
+- 1.1.1.1
+- Potato ( UDP,TCP)
+- Psiphon - Japan
+- Outline 
 
 # Telenor
 
@@ -115,13 +114,13 @@ https://www.mediafire.com/folder/chgvs5mix2mc3/%E1%80%99%E1%80%B0%E1%80%9B%E1%80
 
 https://www.dropbox.com/s/w9q2ymr2ty6ujgz/kt-tunnel.hat?
 
-1.1.1.1 
-
- Connect နှိပ်ယုံပါပဲ။
+- 1.1.1.1 
+Connect နှိပ်ယုံပါပဲ။
  
 Wrap ကိုလည်း support ပေးထားပါတယ်။
 
-Wrap အတွက် GB တိုးနည်း
+
+## Wrap အတွက် GB တိုးနည်း
 
 https://m.facebook.com/story.php?story_fbid=470459297569371&id=100038159133304
 
