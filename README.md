@@ -11,7 +11,7 @@ MPT,Telenor ,Ooredoo အတွက်ပဲဖြစ်ပါတယ်။**
 
 အသေချာဆုံးက Ooredoo ဖြစ်တယ်။ Officially မို့ပါ။
 
-**VPN အသုံးပြုနည်းကို `Usage`နေရာတွင်ဆိုင်ရာဆိုင်ရာVPN အလိုက်ဖော်ပြထားပါတယ်။**
+**VPN အသုံးပြုနည်းကို [Usage](https://github.com/amm834/vpns#usage) နေရာတွင်ဆိုင်ရာဆိုင်ရာVPN အလိုက်ဖော်ပြထားပါတယ်။**
 
 # VPN List
 
