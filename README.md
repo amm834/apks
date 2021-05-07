@@ -154,6 +154,9 @@ Outline Key List
 
 ```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUEY1YUpxbEdSWHQ@54.251.216.116:17797/?outline=1
+
+# Ooredoo
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeWhFQ1U0T2RuVXI@137.116.60.245:25245/?outline=1
 ```
 
 ## List - 5
