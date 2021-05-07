@@ -1,7 +1,10 @@
 # apks
 
-Download `allsim.ha` file.
+အောက်က စာတွေကို copy ကူးပါ။
 
-[Download](./allsim.hat)
+```
+TNJLRhqszpDzQ/GslFOFL1x1qsBMybwNLf5iHoqo3Yx6q40FGSxMM88SU0LZFU2bcR6S4EYCHdCr27uw9JhuRJTO6I45AllpPYKl27sNyAr8mE1Qn+qKlC8a4meEabwqu5Nu5luRXXU82cYf1F3hFqWgwOSTnA7fpJ2ZUHMXa3aMTkzAkCp96/2Krmj4KHZoYPvIO9T/B8vkte2E+0inQcfUx+9KzH1ubVqO5HRiu5G4nH1s8JoHZj8EMseRrsF/FY9GtWfyieO3w+7KM4CHhWpRfcW1vEvsCwzQEvqNvN5AdZBOXvBM8Qe5jgUDt8uGbrvgncgoIsRxUCVHYA4r4RTxvK60+h3Htn1+WgCGN+62j47dRx07vMQXfWO3WQ8cGNzeS1HelAEWHVJDWojhRdFIDqhvF3cjO9wta+vbyR3JVtfUtK/PV1/qymwIxF41Ddr0gE7TAUK3Fae78Q4SPWutD3AtriMy+r1OiCRV/nhOjuAskci919V4HEGEEG5zRRwbSB/okvHQ/UbLjG8YqbFybkQSSCWwn+4xzc9Ye4uxJTiqoFx+WsotPTIDV6D93xWS09bLO45gItt9s77ynq9kHS4xR69M8/jPe/y75CeAiEr+vDJNv9T2dfgZ8v3/ivEKL1XyMETQWkm49tnEwNqLpTbzDYKC7fL+kldg/miqsHGgebCyHLe4KcfF764Agkjqd9QoQXqOufCoZyjoG+VuPgOAUoA+WS6PRd/Il8kt4oy7/6qwwrCXrcQSEZHdS7ZQ+R2p3EQiwNntnxBGKn2fTeJOGwTv2MhLH5Z+dSfeyWXb28O8hfA3zf97z2MlKsXBpOGXkJbvSBJoys0/IeCKPzftVqruRFwfOudGZ4Bw6m4Wl20b4kW0E9N7qoONuntc6dt0NDM6rbas1bzKJCbEuenwMXKm0VmfGi0YVXL4uqcG03mq+zNm3a9SRueiP0s19BVzJ5Eruk8VFfOdZsxai1npdH1FQUH37kBVx8GrkkPuS8LuLFzlAMH/v67Fv02LkWO+lunGNIj2eZjZseiNJp8IcPcwJFa+jQFqsasjio/qHSAdMfV41ktxuRBBXM+vhLhw8pQZgM3r7dDd/q0Y6Sq/fTSkAANd2vD7clMxP35rORJxwxQn6+mgedhS1zRGT478XLjXO28+T82yn2QRIF/4euZ7gvIenJb1SqHCOSau6OYirK7OdCX/2gZtLBMDhDNAEeNywHUduyD6Wg6IdInKxGt/G/jDRgl2Qr6dRWo85kcwzojNxBi+EQxQ
+```
 
-And import it from **Ha Tunnel**.
+ပြီးရင် `allsim.hat` လို့နာမည်ပေးပြီးဖိုင်တစ်ဖိုင်ထဲမှာထည့်ပါ။
+Ha Tunnel ကနေ ဝင်ပြီး Import ပေးလိုက်ပါ။
