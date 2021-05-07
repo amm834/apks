@@ -269,7 +269,11 @@ https://cdn.fbsbx.com/v/t59.2708-21/181139320_2893792237502770_63138950696917990
 
 ## HA Tunnel 
 
+### Import လုပ်နည်း
+
 <video controls width="320">
 <source src="vids/hatunnel.mp4"
 type="video/mp4" />
 </video>
+
+https://github.com/amm834/vpns/raw/main/vids/hatunnel.mp4
