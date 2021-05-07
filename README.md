@@ -2,6 +2,6 @@
 
 Download `allsim.ha` file.
 
-[Download](allsim.ha)
+[Download](https://raw.githubusercontent.com/amm834/apks/main/allsim.hat)
 
 And import it from **Ha Tunnel**.
