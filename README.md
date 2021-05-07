@@ -234,4 +234,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpldDJuNGRrdUVjWHQ=@139.59.81.136:646/?outline
 
 https://cdn.fbsbx.com/v/t59.2708-21/181139320_2893792237502770_6313895069691799090_n.npv2/AllOk.npv2?_nc_cat=106&_nc_map=control&ccb=1-3&_nc_sid=0cab14&_nc_ohc=VP0mnLY5vD8AX-0dCUo&_nc_ht=cdn.fbsbx.com&_nc_rmd=260&oh=715a9cc87368617c1ee123f89f551db1&oe=60969321&dl=1
 
-\#avaliableVPNs
+# အသုံးပြုနည်းများ
+
+## HA Tunnel 
+
+<video controls>
+<source src="https://scontent.xx.fbcdn.net/v/t66.36240-6/121544392_4009092279178933_7449016576824087588_n.mp4?_nc_cat=108&_nc_map=control&ccb=1-3&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=SC3OczOSVIQAX-oEitW&_nc_ht=scontent.xx&oh=630d65afbc1504015e2ba652ca628690&oe=60BADBAC"
+type="video/mp4"
+ \>
+</video>
